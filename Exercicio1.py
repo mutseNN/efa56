@@ -1,7 +1,7 @@
 # Exercícios INPUT e OUTPUT
 # 1-
 
-print("Olá Formador João!")
+print("Olá Formador João Câncio!")
 
 # 2-
 
